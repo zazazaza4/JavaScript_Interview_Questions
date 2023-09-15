@@ -1,4 +1,10 @@
 # JavaScript_Interview_Questions
+ [Junior/Загальні](#junior)
+ [Junior/Загальні](#js-core)
+ [Junior/Загальні](#middle)
+
+
+
 ## Junior
 ### Загальні
 1. Які методи HTTP-запитів ви знаєте? 

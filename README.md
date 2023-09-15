@@ -1,7 +1,7 @@
 # JavaScript_Interview_Questions
- [Junior/Загальні](#junior)
- [Junior/Загальні](#js-core)
- [Junior/Загальні](#middle)
+* [Junior/Загальні](#junior)
+* [Junior/JS-Core](#js-core)
+* [Junior/Функції](#функції)
 
 
 

@@ -1,8 +1,26 @@
 # JavaScript_Interview_Questions
-* [Junior/Загальні](#junior)
-* [Junior/JS-Core](#js-core)
-* [Junior/Функції](#функції)
 
+<p style="font-size: 18px">Junior</p>
+<ul>
+  <li><a href="#junior">Junior/Загальні</a></li>
+  <li><a href="#js-core">Junior/JS-Core</a></li>
+  <li><a href="#функції">Junior/Функції</a></li>
+  <li><a href="#front-end">Junior/Front-end</a></li>
+  <li><a href="#react">Junior/React</a></li>
+  <li><a href="#back-end">Junior/Back-end</a></li>
+  <li><a href="#бази-даних">Junior/Бази даних</a></li>
+</ul>
+
+<p style="font-size: 18px">Middle</p>
+<ul>
+  <li><a href="#middle">Middle/Загальні</a></li>
+  <li><a href="#js-core">Middle/JS-Core</a></li>
+  <li><a href="#функції">Middle/Функції</a></li>
+  <li><a href="#front-end">Middle/Front-end</a></li>
+  <li><a href="#react">Middle/React</a></li>
+  <li><a href="#back-end">Middle/Back-end</a></li>
+  <li><a href="#бази-даних">Middle/Бази даних</a></li>
+</ul>
 
 
 ## Junior

@@ -24,3 +24,5 @@
 - Інтеграція з екосистемою: Vite гармонійно взаємодіє з широкою екосистемою JavaScript, що робить його сумісним з популярними інструментами, такими як npm і yarn.
 
   ###  [How To Set Up a React Project with Vite](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-vite)
+
+2. [Розпочніть новий проект React](https://react.dev/learn/start-a-new-react-project)
